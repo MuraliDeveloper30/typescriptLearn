@@ -31,7 +31,7 @@ Notes
 - Its best way catch up the error in compile time or runtime error
 - Easy to Readability
 
-
+          
 
 Which  time I use typescript?
 
