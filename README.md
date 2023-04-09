@@ -1,14 +1,14 @@
 ##### Welcome to eCcoding - Digital Blog Content
 
-Hello learning freaks!  This is series about the what is typescript, especially  some question introduced in your mind 
+Hello learning freaks!  This is series about the what is typescript and How to understand Typescript ,especially  some question introduced in your mind .
 For example:- ( As fresher think & As New People think )
 what is typescript?
 why to learn first?
 This is worth to learn ?
-How to understand and How to learn practice these stuff?
+How to understand and How to learn practice these stuff's?
 
-In may way of blog content is step by step process 
-Clear your all the question about Typescript
+First Of all Clear All of these questions,
+
 
 what, why , how to understand , why to introduced , whether now a days iam fine to learn this, once I learn this what is next way what are the prerequistes to understand the typescript
 
