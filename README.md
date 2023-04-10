@@ -1,11 +1,14 @@
 ##### Welcome to eCcoding - Digital Blog Content
+# target upload in coming 15
 
-  Hello learning freaks!  This is series about the what is typescript and How to understand Typescript ,especially  some question introduced in your mind .
+ Hello everyone learning! This series is about TypeScript, which is a programming language. I will explain what it is and help you understand it better. If you have any questions, read my blog and it will help you learn TypeScript more easily.
+ 
 For example:- ( As fresher think & As New People think )
 what is typescript?
 why to learn first?
 This is worth to learn ?
 How to understand and How to learn practice these stuff's?
+
 
 First Of all, Clear All of these questions,
 
@@ -28,7 +31,10 @@ First Of all, Clear All of these questions,
 JavaScript is a Multi - level Pradigam programming language that offers different ways of writing code. Many developers use it to build large and complex programs, but sometimes they encounter difficulties due to the language's complexity. To make things easier, a new version called #### ES5 was created to fix some of these issues.
 After this Es5 
 introduce Es6
-Difference between Es5 and Es6
+                                                    <img src="https://media.licdn.com/dms/image/C4E12AQGjvH3eTBDdmg/article-cover_image-shrink_600_2000/0/1597593610760?e=2147483647&v=beta&t=rMt8_v4wXHDrrndOaO6L-n9XS4lNFCxFZFEinEYKX20" width="600" height="400" />
+                    <img src="https://cdn.dribbble.com/users/1338497/screenshots/5753914/media/2441949314b1cfd2d5642ae28ccbd374.gif" width="400" height="300" />
+
+Difference between Es5 and Es6  ![]()
 
 
 
