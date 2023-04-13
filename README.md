@@ -55,7 +55,8 @@ two way to stuck   1 is fear and 2. lazy 3. main CLARITY    }
  }
  
  this all content small link to enlarged
-
+                                                        
+                                                                       
 
 
 Notes
